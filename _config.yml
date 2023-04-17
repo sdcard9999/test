@@ -13,13 +13,13 @@
 
 theme: jekyll-agency
 
-url    : "" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "" # the subpath of your site, e.g. /blog
+url    : "https://github.com/sdcard9999/test.git" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/이병선" # the subpath of your site, e.g. /blog
 
-title      : Your Awesome Website
-email      : your-email@example.com #this is also the email contact forms will go to
-description: "Site description"
-author     : Your Name
+title      : 웹화면구현 수업
+email      : bsbs4222@naver.com #this is also the email contact forms will go to
+description: "웹화면구현 수업이다"
+author     : 이병선
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
